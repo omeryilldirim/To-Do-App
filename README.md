@@ -20,7 +20,7 @@ To-Do App (folder)
 
 ## Outcome
 
-![Project Snapshot](img/project_002_1.gif)
+![Project Snapshot](./assets/to-do-app-snapshot.png)
 
 ## Objective
 
