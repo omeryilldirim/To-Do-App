@@ -24,28 +24,18 @@ To-Do App (folder)
 
 ## Objective
 
-Make a To-Do App as in the sample designs.
-
 -  User stories;
 
-   - When I click plus /add button on to-do app, I can increase add new to-do task.
-   - When I click done  button on on to-do app, I can mark the selected to-do task as done and count of uncompleted task decrease 1.
-   - When I click button on on to-do app, I can delete a to-do task. Completed / total task counts decrease 1.
+   - When I click add button(plus) or press enter on to-do app, I can add a new to-do task.
+   - When I click check icon on to-do app, I can mark the selected to-do task as done or as cancel done and send back to to-do list.
+   - When I click trash icon on on to-do app, I can delete a to-do task.
 
-### Following topics are to be covered;
+### Following topics are covered;
 
 - HTML 
 
 - CSS
 
 - JS
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create JS code for To-Do App 
 
 <p align='center'> ⌛ Happy Coding ✍ - Please feel free to check my work out ! 🙃 </p>
